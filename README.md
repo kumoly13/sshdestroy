@@ -7,7 +7,7 @@ Features
     Customizable Parameters: Allows customization of username lists, password dictionaries, and target configurations.
     Real-time Logging: Provides real-time logging and reporting of successful login attempts.
     Compatibility: Supports various SSH server configurations with ease.
-    Bypass Mechanisms: Includes built-in mechanisms to bypass basic detection measures.
+    Bypass Mechanisms: Includes built-in mechanisms to bypass some detection measures.
 
 Installation
 
@@ -25,6 +25,8 @@ Build the project:
 
 
     go build 
+
+
 
 Usage
 
