@@ -19,7 +19,7 @@ Installation
 Navigate to the project directory:
 
 
-cd sshdestroy
+    cd sshdestroy
 
 Build the project:
 
